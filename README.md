@@ -6,9 +6,9 @@ Sens.ai is a powerful marketing research tool that leverages artificial intellig
 
 ### Target auidence
 
-The reviews for the product or service expressed by customers with this app helps determine whether to buy, quit, sell, or recommend your product. This app is developed targeting all business entities. Few examples here...
-
-Traders, Manufacturers, Customers, Service Industry, Individuals
+  - Marketing Teams
+  - Advertising Campaigns
+  - Political Campaigns
 
 ### Team Members
 
@@ -18,31 +18,11 @@ Traders, Manufacturers, Customers, Service Industry, Individuals
 - Hemantkumar Panchal (https://github.com/panchalhemant2001)
 
 ## Stack Choices
-
-### Front End (react and react-dom)
-
-React makes it painless to create interactive UIs. Design simple views for each state in your application, and React will efficiently update and render just the right components when your data changes.
-
-Declarative views make your code more predictable and easier to debug.
-
-Build encapsulated components that manage their own state, then compose them to make complex UIs.
-
-Since component logic is written in JavaScript instead of templates, you can easily pass rich data through your app and keep state out of the DOM.
-
-Reference: https://reactjs.org/
-
-### Back End (node.js)
-
-Node.js is an open-source, cross-platform JavaScript run-time environment that executes JavaScript code server-side.
-
-Reference: https://en.wikipedia.org/wiki/Node.js
-
-### Database (PostgreSQL)
-
-PostgreSQL, often simply Postgres, is an object-relational database management system (ORDBMS) with an emphasis on extensibility and standards compliance. As a database server, its primary functions are to store data securely and return that data in response to requests from other software applications. It can handle workloads ranging from small single-machine applications to large Internet-facing applications (or for data warehousing) with many concurrent users; on macOS Server, PostgreSQL is the default database;[11][12][13] and it is also available for Microsoft Windows and Linux (supplied in most distributions).
-
-Reference: https://en.wikipedia.org/wiki/PostgreSQL
-
+  
+  - React
+  - Node.js / Express
+  - PostgreSQL
+  
 ## Project Setup
 
 - Clone this project from git Repo (Write following commands on vagrant)
@@ -215,5 +195,3 @@ npm start
 Open a web browser (for example: Google Chrome), and type http://localhost:3000 in the addressbar to open client app in the browser.
 
 ![Start Client Application in Web Browser](./public/docs/start_client_browser.png)
-
-# Final Product Screenshots
