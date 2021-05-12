@@ -6,7 +6,7 @@
     "bluebird": "^3.5.1",
     "body-parser": "^1.18.3",
     "change-case": "^3.0.2",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "dom-scroll-into-view": "^1.2.1",
     "dotenv": "^6.0.0",
     "express": "^4.16.3",
